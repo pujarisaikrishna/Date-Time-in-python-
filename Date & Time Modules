@@ -1,0 +1,9 @@
+import datetime
+
+res = datetime.datetime.now()
+print(res)
+
+import datetime
+
+res = datetime.datetime.now()
+print(res.strftime("%D"))
